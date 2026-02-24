@@ -14,7 +14,7 @@
   "explorer.compactFolders": false,
   // workbench
   "workbench.editor.enablePreview": false,
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "vs-seti",
   "workbench.colorTheme": "Omni",
 
   // prettier
@@ -27,9 +27,9 @@
   // terminal
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.profiles.windows": {
-  "Git Bash": {
-    "source": "Git Bash"
-  }
-},
-"terminal.integrated.defaultProfile.windows": "Git Bash"
+    "Git Bash": {
+      "source": "Git Bash"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
